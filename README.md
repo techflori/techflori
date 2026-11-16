@@ -38,7 +38,7 @@ Experience translating data workflows and business rules from Access into SQL Se
 
 **Data & development** &nbsp; SQL · SQL Server · Python · pandas  
 **Analysis & visualization** &nbsp; Power BI · Matplotlib · Jupyter  
-**Machine learning** &nbsp; scikit-learn · PyTorch *(learning)*
+**Machine learning** &nbsp; scikit-learn · PyTorch 
 
 ## On my roadmap
 
