@@ -1,44 +1,42 @@
+![Florian Morina — making sense of data. A visual journey from observations to structure and understanding.](https://raw.githubusercontent.com/techflori/techflori/main/data-journey.svg)
+
 <div align="center">
 
-# Florian Morina
+**Data engineering** &nbsp; / &nbsp; **Data science** &nbsp; / &nbsp; **Machine learning**
 
-### Turning data into reliable decisions.
-
-**DATA ENGINEERING** &nbsp; / &nbsp; **DATA SCIENCE** &nbsp; / &nbsp; **MACHINE LEARNING**
-
-[Explore my work](#selected-work) &nbsp; · &nbsp; [What I work with](#toolkit) &nbsp; · &nbsp; [Get in touch](mailto:techflori.contact@gmail.com)
+[Selected work](#selected-work) &nbsp; · &nbsp; [Toolkit](#toolkit) &nbsp; · &nbsp; [Contact](mailto:techflori.contact@gmail.com)
 
 </div>
 
 ---
 
-I’m a Data Science student at FAU Erlangen–Nürnberg with hands-on experience working with SQL, data integration and business logic. I’m interested in the full journey from **raw data to useful insights and intelligent applications**.
+## Data, with purpose
 
-I enjoy understanding how a system works, making data more trustworthy and translating technical work into outcomes people can use. Currently, I’m exploring the intersection of data engineering, machine learning and AI.
+I’m Florian, a Data Science student at FAU Erlangen–Nürnberg with hands-on experience in SQL, data integration and business logic. I’m interested in the full journey from **raw data to useful insights and intelligent applications**.
+
+I enjoy understanding how systems work, making data more trustworthy and translating technical work into outcomes people can use. I’m exploring the intersection of data engineering, machine learning and AI.
 
 ## Focus areas
 
-<table>
-<tr>
-<td width="33%"><strong>01 / DATA SYSTEMS</strong><br><br>SQL, data transformation, integration and quality checks.</td>
-<td width="33%"><strong>02 / ANALYTICS</strong><br><br>Exploring data, asking business questions and communicating insights.</td>
-<td width="33%"><strong>03 / MACHINE LEARNING</strong><br><br>Learning through experiments in clustering, PyTorch and model evaluation.</td>
-</tr>
-</table>
+| 01 · Data systems | 02 · Analytics | 03 · Machine learning |
+| :--- | :--- | :--- |
+| SQL, data transformation, integration and quality checks. | Exploring data, asking business questions and communicating insights. | Experiments in clustering, PyTorch and model evaluation. |
 
 ## Selected work
 
-**[K-Means Clustering](https://github.com/techflori/simple-kmeans-clustering)** &nbsp; · &nbsp; Python / scikit-learn  
+### [K-Means Clustering ↗](https://github.com/techflori/simple-kmeans-clustering)
+**Python · scikit-learn · Jupyter**  
 An introductory unsupervised learning experiment using synthetic data, visualizations and cluster centroids.
 
-**Professional experience** &nbsp; · &nbsp; SQL Server / data integration  
+### Professional experience
+**SQL Server · data integration**  
 Experience translating data workflows and business rules from Access into SQL Server. My public portfolio uses independent examples rather than company data.
 
 ## Toolkit
 
 **Data & development** &nbsp; SQL · SQL Server · Python · pandas  
 **Analysis & visualization** &nbsp; Power BI · Matplotlib · Jupyter  
-**Machine learning** &nbsp; scikit-learn · PyTorch 
+**Machine learning** &nbsp; scikit-learn · PyTorch
 
 ## On my roadmap
 
@@ -51,6 +49,6 @@ Experience translating data workflows and business rules from Access into SQL Se
 <div align="center">
 
 **Curious about data. Committed to building things that work.**  
-[Email](mailto:techflori.contact@gmail.com) &nbsp; · &nbsp; [GitHub repositories](https://github.com/techflori?tab=repositories)
+[Email](mailto:techflori.contact@gmail.com) &nbsp; · &nbsp; [Explore repositories](https://github.com/techflori?tab=repositories)
 
 </div>
